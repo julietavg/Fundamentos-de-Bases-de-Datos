@@ -1,6 +1,6 @@
 # Fundamentos de Bases de Datos
 
-Este repositorio contiene prácticas y proyectos relacionados con el curso de Fundamentos de Bases de Datos. 
+Este repositorio contiene prácticas y proyectos colaborativos relacionados con el curso de Fundamentos de Bases de Datos. 
 
 ## Descripción
 
